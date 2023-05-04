@@ -14,7 +14,7 @@ GPG Suite on MAC dosen't work the way I want it to.
 
 
 ## PGP
-  ### Encyrption: You can encrypt stuff with a public key
+  * Encyrption: You can encrypt stuff with a public key
   
   ### Decyrption: You can decrypt stuff with a private key if you add a public/private key to the password manager
   
