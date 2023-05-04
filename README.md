@@ -8,4 +8,22 @@ Sixteen byte keySixteen byte key
 
 # Why?
 
-GPG Keychain on MAC dose not work the way I want it to.
+GPG Suite on MAC dose not work the way I want it to.
+
+# Features 
+
+
+## PGP
+  
+  
+
+## Password Manager
+
+
+## File Manager
+
+
+## Hashing
+
+
+## Options
