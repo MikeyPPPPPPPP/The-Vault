@@ -1,4 +1,7 @@
 # The-Vault
+
+## I am currently rewriting the code completly from scratch, this code is not secure against memory forensics which is unexceptable for me.
+
 This is a PGP encryption suite with a built in password and file manager made in Python with Tkinter
 
 
