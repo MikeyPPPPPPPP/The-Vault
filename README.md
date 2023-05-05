@@ -15,6 +15,8 @@ GPG Suite on MAC dosen't work the way I want it to.
 
 # Features 
 
+## Encryption
+
  * This program uses AES in CBC mode with a 128-bit key for encryption; using PKCS7 padding
  
 ## PGP
