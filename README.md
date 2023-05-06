@@ -48,3 +48,7 @@ GPG Suite on MAC dosen't work the way I want it to.
     * Paranoid option
     
       -- This will make it so you need a password to access any tab.
+      
+# Demo 
+
+https://www.youtube.com/watch?v=dotMTwIEPck&ab_channel=MichaelDProvenzano
