@@ -2,7 +2,7 @@
 
 ## I am currently rewriting the code, this code is not secure against memory forensics which is unexceptable for me.
 # updates
- * I will be switching to 256 bit ASE in CBC 
+ * I will be switching to 256 bit AES in CBC 
  * I will also make the program handle sensitive info securly in memory   
 
 This is a PGP encryption suite with a built in password and file manager made in Python with Tkinter
