@@ -8,7 +8,7 @@ Sixteen byte keySixteen byte key
 
 ## I am currently rewriting the code, this code is not secure against memory forensics which is unexceptable for me.
 # updates
- * I will be switching to 256 bit AES in CBC 
+ * I will be switching to 256 bit AES in GCM
  * I will also make the program handle sensitive info securly in memory   
 
 
