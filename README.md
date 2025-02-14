@@ -2,15 +2,7 @@
 
 This is a PGP encryption suite with a built in password and file manager made in Python with Tkinter
 
-
-Default password:
-Sixteen byte keySixteen byte key
-
-## I am currently rewriting the code, this code is not secure against memory forensics which is unexceptable for me.
-# updates
- * I will be switching to 256 bit AES in GCM
- * I will also make the program handle sensitive info securly in memory   
-
+Default password: Sixteen byte keySixteen byte key
 
 # Why?
 
@@ -51,7 +43,13 @@ GPG Suite on MAC dosen't work the way I want it to.
     * Paranoid option
     
       -- This will make it so you need a password to access any tab.
-      
+
+# updates
+ * I will be switching to 256 bit AES in GCM
+ * I will also make the program handle sensitive info securly in memory   
+
+
+
 # Demo 
 
 https://www.youtube.com/watch?v=dotMTwIEPck&ab_channel=MichaelDProvenzano
